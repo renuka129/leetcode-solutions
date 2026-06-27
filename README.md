@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/renuka129/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0039-combination-sum](https://github.com/renuka129/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/renuka129/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/renuka129/leetcode-solutions/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/renuka129/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/renuka129/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/renuka129/leetcode-solutions/tree/master/0051-n-queens) |
 ## Stack
 |  |
