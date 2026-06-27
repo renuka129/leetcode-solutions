@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/renuka129/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0051-n-queens](https://github.com/renuka129/leetcode-solutions/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/renuka129/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0238-product-of-array-except-self](https://github.com/renuka129/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/renuka129/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Backtracking
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/renuka129/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/renuka129/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
