@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/renuka129/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/renuka129/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/renuka129/leetcode-solutions/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/renuka129/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0238-product-of-array-except-self](https://github.com/renuka129/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -41,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/renuka129/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/renuka129/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/renuka129/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/renuka129/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 ## Two Pointers
 |  |
@@ -58,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/renuka129/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/renuka129/leetcode-solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
