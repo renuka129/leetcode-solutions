@@ -1,7 +1,7 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         int ans[]=new int[nums1.length];
-        Arrays.fill(ans,-1);
+        //Arrays.fill(ans,-1);
         Map<Integer,Integer>m=new HashMap<>();
         int j=0;
         Stack<Integer>s=new Stack<>();
@@ -13,6 +13,9 @@ class Solution {
             s.push(nums2[j]);
             j++;
         }
+            while(!s.isEmpty()){
+                m.put(s.pop(),-1);
+            }
         int k=0;
         for(int i=0;i<nums1.length;i++){
             if(m.containsKey(nums1[i])){
