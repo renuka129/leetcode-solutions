@@ -9,18 +9,34 @@
  */
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        List<TreeNode>l=new ArrayList<>();
-        List<TreeNode>l1=new ArrayList<>();
-        helper(root,p,l);
-        helper(root,q,l1);
-        TreeNode res=null;
-        int min=Math.min(l.size(),l1.size());
-        for(int i=0;i<min;i++){
-            if(l.get(i).equals(l1.get(i))){
-                res=l.get(i);
-            }
+        // List<TreeNode>l=new ArrayList<>();
+        // List<TreeNode>l1=new ArrayList<>();
+        // helper(root,p,l);
+        // helper(root,q,l1);
+        // TreeNode res=null;
+        // int min=Math.min(l.size(),l1.size());
+        // for(int i=0;i<min;i++){
+        //     if(l.get(i).equals(l1.get(i))){
+        //         res=l.get(i);
+        //     }
+        // }
+        // return res;
+        if(root==null){
+            return root;
         }
-        return res;
+        if(root==p||root==q){
+            return root;
+        }
+        TreeNode l=lowestCommonAncestor(root.left,p,q);
+        TreeNode r=lowestCommonAncestor(root.right,p,q);
+
+        if(l!=null&&r!=null){
+            return root;
+        }
+        if(l!=null){
+            return l;
+        }
+        return r;
     }
     boolean helper(TreeNode root,TreeNode x,List<TreeNode>l){
         if(root==null){
