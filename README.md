@@ -253,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/renuka129/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/renuka129/leetcode-solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
