@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/renuka129/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/renuka129/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/renuka129/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/renuka129/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/renuka129/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/renuka129/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/renuka129/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/renuka129/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/renuka129/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/renuka129/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/renuka129/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/renuka129/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/renuka129/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/renuka129/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/renuka129/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/renuka129/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
