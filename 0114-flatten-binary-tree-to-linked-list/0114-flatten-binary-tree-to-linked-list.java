@@ -13,10 +13,10 @@
  *     }
  * }
  */
- //reversive apprach
 class Solution {
     TreeNode prev=null;
     public void flatten(TreeNode root) {
+        //reversive apprach
         if(root==null){
             return;
         }
@@ -25,5 +25,23 @@ class Solution {
         root.right=prev;
         root.left=null;
         prev=root;
+
+       // iteractive apporach->stack
+    //    Stack<TreeNode>s=new Stack<>();
+    //    s.push(root);
+    //    while(!s.isEmpty()){
+    //     TreeNode cur=s.pop();
+    //     if(cur.right!=null){
+    //         s.push(cur.right);
+    //     }
+    //     if(cur.left!=null){
+    //         s.push(cur.left);
+    //     }
+    //     if(!s.isEmpty()){
+    //         cur.right=s.pop();
+    //         cur.left=null;
+    //     }
+    //  }
+        
     }
 }
