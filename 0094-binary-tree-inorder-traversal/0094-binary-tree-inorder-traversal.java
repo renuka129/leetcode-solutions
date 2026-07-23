@@ -29,17 +29,15 @@ class Solution {
             prev=prev.right;
         }
         if(prev.right==null){
-            prev.right=cur;
+            prev.right=cur;//creation of thread
             cur=cur.left;
         }
         else if(prev.right==cur){
             l.add(cur.val);
-            prev.right=null;
+            prev.right=null;//if thread is already created remove the thread by adding nullto right pointer
             cur=cur.right;
-        }
-        }
-        
-        }
+        }}}
         return l;
-    }
+    } //for preorder traversal directly when we are creating a thread we are dealing with the root so the 
+    //root (curr) is directly added to the ans pre=root,left,right
 }
