@@ -48,6 +48,7 @@ class Solution {
         count++;
         if(count==k){
             ans=node.val;
+            return;
         }
         helper(node.right,k);
     }
