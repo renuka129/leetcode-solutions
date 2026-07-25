@@ -14,21 +14,41 @@
  * }
  */
 class Solution {
+    int ans=0;
+    int count=0;
     public int kthSmallest(TreeNode root, int k) {
-    List<Integer>l=new ArrayList<>();
-    helper(root,l);
-    Collections.sort(l);
-    return l.get(k-1);
-        
+        //int ans=0;
+        helper(root,k);
+        return ans;
     }
-    void helper(TreeNode root,List<Integer>l){
-        if(root==null){
-            return ;
+
+    //Bruteforce
+    // List<Integer>l=new ArrayList<>();
+    // helper(root,l);
+    // Collections.sort(l);
+    // return l.get(k-1);
+        
+    // }
+    // void helper(TreeNode root,List<Integer>l){
+    //     if(root==null){
+    //         return ;
+    //     }
+    //     if(root!=null){
+    //         l.add(root.val);
+    //     }
+    //     helper(root.left,l);
+    //     helper(root.right,l);
+    // }
+
+    void helper(TreeNode node,int k){
+        if(node==null){
+            return;
         }
-        if(root!=null){
-            l.add(root.val);
+        helper(node.left,k);
+        count++;
+        if(count==k){
+            ans=node.val;
         }
-        helper(root.left,l);
-        helper(root.right,l);
+        helper(node.right,k);
     }
 }
