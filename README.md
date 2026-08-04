@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/renuka129/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/renuka129/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/renuka129/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1854-maximum-population-year](https://github.com/renuka129/leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/renuka129/leetcode-solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/renuka129/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/renuka129/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/renuka129/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/renuka129/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/renuka129/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
+| [1854-maximum-population-year](https://github.com/renuka129/leetcode-solutions/tree/master/1854-maximum-population-year) |
 ## Sorting
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1854-maximum-population-year](https://github.com/renuka129/leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/renuka129/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/renuka129/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
