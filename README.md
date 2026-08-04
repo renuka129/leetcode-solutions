@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/renuka129/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/renuka129/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/renuka129/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1094-car-pooling](https://github.com/renuka129/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/renuka129/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1260-shift-2d-grid](https://github.com/renuka129/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/renuka129/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/renuka129/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [1094-car-pooling](https://github.com/renuka129/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/renuka129/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/renuka129/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/renuka129/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/renuka129/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/renuka129/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/renuka129/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 ## Sorting
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/renuka129/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/renuka129/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/renuka129/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1094-car-pooling](https://github.com/renuka129/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/renuka129/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/renuka129/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/renuka129/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/renuka129/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [1094-car-pooling](https://github.com/renuka129/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/renuka129/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/renuka129/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
